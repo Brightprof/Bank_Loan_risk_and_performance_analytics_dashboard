@@ -25,11 +25,25 @@ This simulates a real-world financial analytics use case.
 
 - Analyzes trends by state, purpose, term, and employment length
 
+
+-----------------------------------------------
+## 📷 Dashboard Preview
+
+### Overview Page
+<img width="1280" height="720" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/de901771-f6be-4d49-8c47-1287179eddec" />
+
+
+### Summary Page
+<img width="1280" height="720" alt="Dashboard 2" src="https://github.com/user-attachments/assets/cbb22ae7-9c8d-4464-b323-0e230c50f96d" />
+
+-----------------------------------------------
+
+
 ### 📊 Key Findings
 
-- 79% of loans are performing (Good loans)
+- **79%** of loans are performing (Good loans)
 
-- 21% represent higher-risk or charged-off loans
+- **21%** represent higher-risk or charged-off loans
 
 - Credit card loans account for the largest share of applications
 
@@ -39,7 +53,8 @@ This simulates a real-world financial analytics use case.
 
 -----------------------------------------------
 
-### 🛠 Skills Demonstrated
+
+## 🛠 Skills Demonstrated
 
 ✔ Data Cleaning & Structuring
 ✔ KPI Design & Financial Metrics
